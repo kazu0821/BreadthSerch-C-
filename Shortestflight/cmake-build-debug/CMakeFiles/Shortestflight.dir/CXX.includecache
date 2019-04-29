@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kazukikanke/CLionProjects/Shortestflight/main.cpp
+iostream
+-
+vector
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+queue
+-
+string
+-
+
+/Users/kazukikanke/CLionProjects/Shortestflight/pp.cpp
+iostream
+-
+vector
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+queue
+-
+string
+-
+
