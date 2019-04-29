@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kazukikanke/CLionProjects/AnagramTester/AnagramSet.h
+LetterBag.h
+/Users/kazukikanke/CLionProjects/AnagramTester/LetterBag.h
+vector
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+
+/Users/kazukikanke/CLionProjects/AnagramTester/LetterBag.h
+vector
+-
+iostream
+-
+
+/Users/kazukikanke/CLionProjects/AnagramTester/main.cpp
+AnagramSet.h
+/Users/kazukikanke/CLionProjects/AnagramTester/AnagramSet.h
+iostream
+-
+fstream
+-
+
