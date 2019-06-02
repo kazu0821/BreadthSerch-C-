@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kazukikanke/CLionProjects/SortedList/SortedList.cpp
+SortedList.h
+/Users/kazukikanke/CLionProjects/SortedList/SortedList.h
+iostream
+-
+
+/Users/kazukikanke/CLionProjects/SortedList/SortedList.h
+
